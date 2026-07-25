@@ -1,0 +1,5 @@
+[
+  {"question": "What is retrieval-augmented generation?", "expected_source": "rag_overview.md"},
+  {"question": "Why do chunk size and overlap matter?", "expected_source": "chunking_guide.md"},
+  {"question": "How can hallucinations be reduced in RAG systems?", "expected_source": "rag_overview.md"}
+]
